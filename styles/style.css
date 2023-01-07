@@ -1,0 +1,154 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+/* Header */
+header{
+    padding-bottom: 100px;
+    margin-bottom: 400px;
+}
+/* Banner Image */
+.imghead{
+    position: absolute;
+    width: 1280px;
+    height: 450px;
+    left: 0px;
+    top: 0px;
+}
+/* Contact Us Button */
+.btn-primary{
+    color: #FFFFFF;
+    background-color: #ff3700;
+    border: 0;
+    height: 50px;
+    border-radius: 10%;
+    margin-left: 250px;
+    margin-top: 30px;
+    width: 90px;
+}
+/* Banner all text */
+.banner-text{
+    margin-top: 100px;
+    padding-left: 200px;
+    position: absolute;
+    color: black
+    margin-top: 150px;
+    margin-left: 400px;
+}
+.inner-image1{
+    
+}
+.main-wrap1{
+    display: flex;
+}
+.inner-text1{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.sec1{
+    
+    margin-bottom: 100px;
+}
+.icon_flex{
+    display: flex;
+
+}
+.myplan .heading{
+   text-align: center;
+    
+}
+.ico-text-flex{
+    
+    display: flex;
+    
+}
+.myplan{
+    margin-bottom: 40px;
+}
+ul{
+    
+    display: flex;
+    list-style: none;
+    margin-left: 130px;
+    padding: 15px;
+    
+}
+.icon_flex ul{
+    margin-left: 150px;
+    padding: 25px;
+    
+}
+
+
+.sec_img3{
+    margin-left: 200px;
+    position: relative;
+    background: url("../images/gradient2.png");
+    margin-bottom: 80px;
+    
+}
+.img3{
+    width: 80%;
+}
+.abs-text{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 80px;
+    color: #FFFFFF;
+    
+}
+.btn-primary2{
+    position: relative;
+    background-color: white;
+    right: 790px;
+    bottom: 50px;
+    border: 0;
+    height: 50px;
+    width: 100px;
+    color: #ff3700;
+    border-radius: 5px;
+    
+}
+.social_flex {
+    display: flex;
+    margin-left: 100px;
+    padding-left: 10px;
+}
+.ftdiv1{
+    padding: 1px 1px;
+    margin-right: 130px;
+    
+}
+.ftdiv1 {
+ margin-left: 100px;
+}
+
+
+.ft-div-flex{
+    display: flex;
+}
+input{
+    border: 2px solid white;
+    padding-bottom: 5px;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+}
+footer{
+    background: black;
+    color: #FFFFFF;
+    margin-bottom: 0px;
+    
+    
+}
+.sub-btn{
+    color: #FFFFFF;
+    background-color: black;
+    border: 2px solid white;
+    height: 50px;
+    border-radius: 10%;
+    margin-left: 8px;
+    margin-top: 20px;
+    width: 90px;
+}
